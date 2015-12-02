@@ -4,6 +4,7 @@ This repository contains information related to the tool ConcernReCS presented a
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Official Project Page, including source code](http://sourceforge.net/p/concernrecs/home/Home/)
+* [Original Download Link](http://sourceforge.net/projects/concernrecs/files/)
 * [A Video of the Tool](http://www.youtube.com/watch?v=xTpI2XwfSjY&feature=player_detailpage)
 
 In this repository, for ConcernReCS you will find:
